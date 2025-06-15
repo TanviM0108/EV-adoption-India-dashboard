@@ -2,7 +2,7 @@
 An EV adoption analysis project using Pandas, SQL, and Power BI. This project analyzes the growth of Electric Vehicles (EVs) in India using publicly available datasets. It uses **Pandas** for data cleaning, **SQL** for querying insights, and **Power BI** for building an interactive dashboard.
 
 # 📊 Tools Used
-- Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas, NumPy, Matplotlib) in Google Colab
 - SQL (SQLite)
 - Power BI
 - Git & GitHub
